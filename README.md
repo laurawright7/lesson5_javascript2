@@ -1,6 +1,7 @@
 ## Project Name:  Tax Bracket Calculator Application
 
 ### Course Title:
+
 Web Application Development
 
 ### Assignment Date:  
