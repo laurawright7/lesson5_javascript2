@@ -4,17 +4,20 @@
 Web Application Development
 
 ### Assignment Date:  
+
 February 20, 2018
 
 ### Student Name:  
+
 Laura Wright
 
 ### Project Description:
+
 In this project we used the if/else statement to differentiate between tax brackets; the onclick method to correspond to the user clicking on a button and having this action cause the users input to be calculated and reset; the getElementById method to reference the HTML id's that link to user's input into JavaScript, so it can be calculated and returned back to display in HTML; the getElementById method along with the innerHTML property to return original default content; the toFixed method to ensure a fixed number of decimal places is displayed; and the clearButton method to return the page to its original default settings.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+
+https://laurawright7.github.io/lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
 
